@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on Learning...
 - 📫 How to reach me:
 Fone📱: (11) 941317613
-https://www.linkedin.com/in/gabrielsalesdavid-estudante-de-desnvolvimento/...
+https://www.linkedin.com/in/gabriel-sales-david-4b2083249/
 
 <!---
 gabrielsalesdavid/gabrielsalesdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
