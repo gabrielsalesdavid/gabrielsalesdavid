@@ -6,7 +6,7 @@
 
 E-Mail📧: gabrielsalesdavid@hotmail.com
 
-GitHub📚: https://www.linkedin.com/gabrielsalesdavid/
+Linkedin💼: https://www.linkedin.com/gabrielsalesdavid
 
 <!---
 gabrielsalesdavid/gabrielsalesdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
