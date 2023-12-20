@@ -3,7 +3,7 @@
 - 🌱 I am currently learning Java, Python and DotNet...
 - 💞️ I'm looking to collaborate on Learning...
 - 📫 How to reach me:
-- 
+
 E-Mail📧: gabrielsalesdavid@hotmail.com
 
 GitHub📚: https://www.linkedin.com/gabrielsalesdavid/
