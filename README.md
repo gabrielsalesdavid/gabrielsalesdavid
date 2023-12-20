@@ -3,7 +3,7 @@
 - 🌱 I am currently learning Java, Python and DotNet...
 - 💞️ I'm looking to collaborate on Learning...
 - 📫 How to reach me:
-Fone📱: (11) 941317613
+E-Mail📧: gabrielsalesdavid@hotmail.com
 https://www.linkedin.com/gabrielsalesdavid/
 
 <!---
