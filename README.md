@@ -25,6 +25,7 @@ Este perfil contém meus projetos de aprendizado e exercícios práticos enquant
 
 - **E-mail**: 📧 [gabrielsalesdavid@hotmail.com](mailto:gabrielsalesdavid@hotmail.com)
 - **GitHub**: [gabrielsalesdavid](https://github.com/gabrielsalesdavid)
+- **LinkedIn**: 💼 [Gabriel Sales David](https://www.linkedin.com/in/gabriel-s-java-python-csharp-sql/)
 
 ---
 
