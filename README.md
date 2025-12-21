@@ -1,12 +1,31 @@
-- 👋 Hi, I'm Gabriel Sales David
-- 👀 I am interested in starting my career in Dev...
-- 🌱 I am currently learning Java, Python, SQL, C, C++ and C#...
-- 💞️ I'm looking to collaborate on Learning...
-- 📫 How to reach me:
+# Gabriel Sales David
 
-E-Mail📧: gabrielsalesdavid@hotmail.com
+Bem-vindo ao meu perfil! 👋
 
-<!---
-gabrielsalesdavid/gabrielsalesdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou um desenvolvedor em formação apaixonado por tecnologia, com foco em expandir meus conhecimentos em desenvolvimento de software. Tenho interesse em contribuir para projetos desafiadores e crescer continuamente na área.
+
+## 🎯 Sobre Mim
+
+- 👀 Interessado em iniciar minha carreira como desenvolvedor
+- 🌱 Atualmente estudando: **Java**, **Python**, **SQL**, **C**, **C++** e **C#**
+- 💞️ Aberto para colaborações em projetos educacionais e desafios de aprendizado
+- 🚀 Buscando oportunidades para aplicar e expandir minhas habilidades técnicas
+
+## 🛠️ Tecnologias em Aprendizado
+
+```
+Java | Python | SQL | C | C++ | C#
+```
+
+## 📚 Meus Repositórios
+
+Este perfil contém meus projetos de aprendizado e exercícios práticos enquanto desenvolvo minhas habilidades de programação.
+
+## 📬 Como me Encontrar
+
+- **E-mail**: 📧 [gabrielsalesdavid@hotmail.com](mailto:gabrielsalesdavid@hotmail.com)
+- **GitHub**: [gabrielsalesdavid](https://github.com/gabrielsalesdavid)
+
+---
+
+*Perfil atualizado em dezembro de 2025* ✨
