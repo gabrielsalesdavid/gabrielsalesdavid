@@ -95,7 +95,7 @@ Repositórios contendo projetos práticos e estudos aprofundados. Cada projeto d
 | **RocketSeat** | Java Maven, NLW (Next Level Week), Projetos Full Stack, APIs Backend |
 | **Udemy** | Java Avançado, Python, C#, AWS Cloud, Linux, Banco de Dados |
 | **HackerSec** | Segurança em Desenvolvimento, Boas Práticas de Código |
-| **Kalau** | Desenvolvimento Avançado, Consolidação de Conceitos |
+| **Curso em Video** | Desenvolvimento Avançado, Consolidação de Conceitos |
 
 ### Áreas dos Repositórios Específicas
 
