@@ -22,7 +22,7 @@ Desenvolvedor versátil com expertise em **programação orientada a objetos**, 
 - **OOP & Design Patterns**: SOLID, GoF Patterns, Arquitetura em Camadas
 - **Desenvolvimento Backend**: APIs RESTful, Microserviços, Integração de Sistemas
 - **Estruturas de Dados**: Algoritmos otimizados, Análise de Complexidade
-- **Bancos de Dados**: Modelagem relacional, Queries otimizadas, Normalização
+- **Bancos de Dados**: SQL Relacional, MongoDB NoSQL, Modelagem, Queries otimizadas
 - **Clean Code**: Refatoração, Manutenibilidade, Princípios de Engenharia
 
 ## 🛠️ Stack Técnico
@@ -38,9 +38,13 @@ Desenvolvedor versátil com expertise em **programação orientada a objetos**, 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tecnologias & Ferramentas
+### Banco de Dados
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tecnologias & Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge)
