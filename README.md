@@ -62,11 +62,20 @@ Desenvolvedor versátil com expertise em **programação orientada a objetos**, 
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-36C5F0?style=for-the-badge)
 
+### Testing & QA
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -76,14 +85,50 @@ Desenvolvedor versátil com expertise em **programação orientada a objetos**, 
 
 Repositórios contendo projetos práticos e estudos aprofundados. Cada projeto demonstra aplicação de conceitos sólidos de engenharia de software, padrões de design e boas práticas profissionais.
 
-### Áreas dos Repositórios
-- **Alura** - Cursos de formação com projetos estruturados
-- **DevSuperior** - Projetos full-stack e arquitetura profissional
-- **Dio.me** - Desafios técnicos e bootcamps
-- **HackerSec** - Segurança em aplicações e boas práticas
-- **Kalau** - Desenvolvimento avançado
-- **RocketSeat** - Projetos modernos com tecnologias atuais
-- **Udemy** - Cursos especializados e certificações
+### Trajeto de Aprendizado por Plataforma
+
+| Plataforma | Tecnologias & Aprendizados |
+|-----------|---------------------------|
+| **Alura** | Python, QA Testing, Cypress Automation, Testes Automatizados |
+| **DevSuperior** | Java Spring Boot, C#, Programação Orientada a Objetos, Maven, Estruturas de Dados |
+| **Dio.me** | Spring Boot, Maven, Bootcamps, Desafios Técnicos, API RESTful |
+| **RocketSeat** | Java Maven, NLW (Next Level Week), Projetos Full Stack, APIs Backend |
+| **Udemy** | Java Avançado, Python, C#, AWS Cloud, Linux, Banco de Dados |
+| **HackerSec** | Segurança em Desenvolvimento, Boas Práticas de Código |
+| **Kalau** | Desenvolvimento Avançado, Consolidação de Conceitos |
+
+### Áreas dos Repositórios Específicas
+
+**Alura** - Cursos estruturados com foco em:
+- Testes Automatizados (Cypress, JavaScript)
+- Python para desenvolvimento
+- Certificações profissionais
+
+**DevSuperior** - Formação completa em:
+- Fundação de Programação (C#, Lógica)
+- Java Spring Framework
+- Arquitetura de Aplicações
+- Intensivão com projetos práticos
+
+**Dio.me** - Bootcamps e desafios com:
+- Spring Boot e Maven
+- Aceleração profissional
+- Projetos com Avanade
+- Formação em UML
+
+**RocketSeat** - Proyectos práticos com:
+- Next Level Week (NLW) Events
+- Desenvolvimento Java Full Stack
+- Arquitetura escalável
+- URL Shortener e aplicações reais
+
+**Udemy** - Cursos especializados em:
+- Java Avançado
+- Python
+- C#
+- AWS e Cloud Computing
+- Linux e Infraestrutura
+- Banco de Dados Relacional
 
 ## 🎯 Áreas de Especialização
 
@@ -96,6 +141,33 @@ Repositórios contendo projetos práticos e estudos aprofundados. Cada projeto d
 | **Clean Code** | Manutenibilidade, Testes, CI/CD |
 | **Full Stack Development** | Frontend + Backend integrado com Spring Boot e .NET |
 | **Build Automation** | Maven, Gerenciamento de Dependências, Pipeline de Construção |
+| **Testing & QA** | Cypress, Testes Automatizados, Test-Driven Development |
+| **Cloud & Infrastructure** | AWS, Linux, Deployment, DevOps Basics |
+
+## 📊 Experiência Consolidada
+
+### Linguagens Dominadas
+- **Java**: Spring Boot, Maven, OOP avançado
+- **C#**: .NET Framework, Programação orientada a objetos
+- **Python**: Desenvolvimento backend, Scripts, Automação
+- **JavaScript**: Testes com Cypress, Frontend
+
+### Frameworks & Ferramentas Principais
+- **Spring Boot**: Desenvolvimento backend profissional
+- **Maven**: Gerenciamento de projetos Java
+- **.NET**: Desenvolvimento Windows
+- **Cypress**: Automação de testes
+
+### Bancos de Dados
+- **SQL**: PostgreSQL, MySQL (Relacional)
+- **MongoDB**: NoSQL, Documentos
+
+### Metodologias & Padrões
+- SOLID Principles
+- Clean Code
+- Design Patterns (GoF)
+- REST API Design
+- Test-Driven Development (TDD)
 
 ## 🌐 Conectar Comigo
 
