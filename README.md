@@ -55,6 +55,8 @@ Este perfil contém meus projetos de aprendizado e exercícios práticos enquant
 - 🔹 Desenvolvimento Backend
 - 🔹 Bancos de Dados Relacionais
 - 🔹 Resolução de Problemas Lógicos
+- 🔹 Desenvolvimento Full Stack
+- 🔹 Boas Práticas de Código e Clean Code
 
 ## 💬 Vamos Conectar!
 
@@ -76,6 +78,8 @@ Estou sempre aberto a conversas sobre tecnologia, oportunidades de aprendizado e
 
 ### ⭐ Se gostou do meu perfil, considere dar uma estrela nos meus repositórios!
 
-*Perfil atualizado em dezembro de 2025* ✨
+*Perfil atualizado em janeiro de 2026* ✨
+
+
 
 </div>
