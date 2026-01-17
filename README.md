@@ -1,56 +1,78 @@
-# 👋 Gabriel Sales David
+# Gabriel Sales David
 
 <div align="center">
 
-**Desenvolvedor em Formação | Apaixonado por Tecnologia | Sempre Aprendendo** 🚀
+**Full Stack Developer | Software Engineer | Problem Solver** 
 
-Transformando ideias em código e desafios em oportunidades de aprendizado.
+Desenvolvedor focado em criar soluções robustas, escaláveis e de alta qualidade. Especializado em desenvolvimento backend com experiência em linguagens modernas e padrões de arquitetura profissional.
+
+[![GitHub](https://img.shields.io/badge/GitHub-gabrielsalesdavid-black?style=flat-square&logo=github)](https://github.com/gabrielsalesdavid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Sales%20David-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel-s-java-python-csharp-sql/)
+[![Email](https://img.shields.io/badge/Email-gabrielsalesdavid%40hotmail.com-red?style=flat-square&logo=gmail)](mailto:gabrielsalesdavid@hotmail.com)
 
 </div>
 
 ---
 
-Sou um desenvolvedor em formação altamente motivado, com paixão genuína por explorar novas tecnologias e resolver problemas através de código. Tenho interesse em contribuir para projetos desafiadores e crescer continuamente como profissional na área de desenvolvimento de software.
+## 💼 Perfil Profissional
 
-## 🎯 Sobre Mim
+Desenvolvedor versátil com expertise em **programação orientada a objetos**, **arquitetura de software** e **desenvolvimento backend**. Apaixonado por escrever código limpo, testável e manutenível. Comprometido com boas práticas de engenharia de software e padrões de design reconhecidos na indústria.
 
-- 👀 Interessado em iniciar minha carreira como desenvolvedor profissional
-- 🌱 **Estudando atualmente**: Java, Python, SQL, C, C++ e C#
-- 💻 Desenvolvendo habilidades em **Programação Orientada a Objetos**, **Estruturas de Dados** e **Bancos de Dados**
-- 💞️ Aberto para colaborações em projetos educacionais e desafios técnicos
-- 🎓 Comprometido com aprendizado contínuo e melhoria constante
-- 🚀 Buscando oportunidades para aplicar e expandir meus conhecimentos
+### Competências Principais
+- **OOP & Design Patterns**: SOLID, GoF Patterns, Arquitetura em Camadas
+- **Desenvolvimento Backend**: APIs RESTful, Microserviços, Integração de Sistemas
+- **Estruturas de Dados**: Algoritmos otimizados, Análise de Complexidade
+- **Bancos de Dados**: Modelagem relacional, Queries otimizadas, Normalização
+- **Clean Code**: Refatoração, Manutenibilidade, Princípios de Engenharia
 
-## 🛠️ Tecnologias em Aprendizado
+## 🛠️ Stack Técnico
 
 <div align="center">
 
-### 💻 Linguagens de Programação
+### Linguagens de Programação
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### 🗄️ Banco de Dados
+### Tecnologias & Ferramentas
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=for-the-badge)
 
-</div>
+### Frontend
 
----
+![HTMLProjetos & Repositórios
 
-## 📚 Meus Repositórios
+Repositórios contendo projetos práticos e estudos aprofundados. Cada projeto demonstra aplicação de conceitos sólidos de engenharia de software, padrões de design e boas práticas profissionais.
 
-Este perfil contém meus projetos de aprendizado e exercícios práticos enquanto desenvolvo minhas habilidades de programação. Cada repositório representa um passo na minha jornada como desenvolvedor.
+### � Áreas de Especialização
 
-## 🎓 Áreas de Interesse
+| Área | Expertise |
+|------|-----------|
+| **Backend Development** | APIs RESTful, Arquitetura em Camadas, Microserviços |
+| **Data Structures & Algorithms** | Otimização, Análise de Complexidade, Problem-Solving |
+| **Database Design** | SQL avançado, Modelagem Relacional, Normalização |
+| **Object-Oriented Design** | SOLID Principles, Design Patterns, Refatoração |
+| **Clean Code** | Manutenibilidade, Testes, CI/CD |
+| **Full Stack Development** | Frontend + Backend integrado |
+</d🌐 Conectar Comigo
 
-- 🔹 Programação Orientada a Objetos (POO)
+<div align="center">
+
+Interesse em conversar sobre desenvolvimento, arquitetura de software ou oportunidades profissionais?
+
+**Estou aberto para:**
+- Desafios técnicos e projetos desafiadores
+- Discussões sobre arquitetura e design de software
+- Code reviews e pair programming
+- Mentorship e networking
 - 🔹 Estruturas de Dados e Algoritmos
 - 🔹 Desenvolvimento Backend
 - 🔹 Bancos de Dados Relacionais
@@ -58,9 +80,15 @@ Este perfil contém meus projetos de aprendizado e exercícios práticos enquant
 - 🔹 Desenvolvimento Full Stack
 - 🔹 Boas Práticas de Código e Clean Code
 
-## 💬 Vamos Conectar!
+## 📊 Estatísticas & Atividade
 
-Estou sempre aberto a conversas sobre tecnologia, oportunidades de aprendizado e colaborações interessantes!
+![GitHub Stats](https://img.shields.io/badge/Open%20to%20Opportunities-Yes-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Actively%20Learning-blue?style=flat-square)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-High%20Priority-critical?style=flat-square)
+
+---
+
+*Perfil atualizado em janeiro de 2026* | Desenvolvedor em constante evolução profissionalcnologia, oportunidades de aprendizado e colaborações interessantes!
 
 ## 📬 Como me Encontrar
 
