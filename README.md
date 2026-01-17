@@ -24,6 +24,7 @@ Desenvolvedor versátil com expertise em **programação orientada a objetos**, 
 - **Estruturas de Dados**: Algoritmos otimizados, Análise de Complexidade
 - **Bancos de Dados**: SQL Relacional, MongoDB NoSQL, Modelagem, Queries otimizadas
 - **Clean Code**: Refatoração, Manutenibilidade, Princípios de Engenharia
+- **Frameworks & Build Tools**: Spring Boot, Maven, .NET Framework
 
 ## 🛠️ Stack Técnico
 
@@ -38,6 +39,17 @@ Desenvolvedor versátil com expertise em **programação orientada a objetos**, 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Frameworks & Arquitetura
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Build & Gerenciamento de Dependências
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ### Banco de Dados
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -45,28 +57,47 @@ Desenvolvedor versátil com expertise em **programação orientada a objetos**, 
 
 ### Tecnologias & Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6B6B?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-36C5F0?style=for-the-badge)
 
 ### Frontend
 
-![HTMLProjetos & Repositórios
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Projetos & Repositórios
 
 Repositórios contendo projetos práticos e estudos aprofundados. Cada projeto demonstra aplicação de conceitos sólidos de engenharia de software, padrões de design e boas práticas profissionais.
 
-### � Áreas de Especialização
+### Áreas dos Repositórios
+- **Alura** - Cursos de formação com projetos estruturados
+- **DevSuperior** - Projetos full-stack e arquitetura profissional
+- **Dio.me** - Desafios técnicos e bootcamps
+- **HackerSec** - Segurança em aplicações e boas práticas
+- **Kalau** - Desenvolvimento avançado
+- **RocketSeat** - Projetos modernos com tecnologias atuais
+- **Udemy** - Cursos especializados e certificações
+
+## 🎯 Áreas de Especialização
 
 | Área | Expertise |
 |------|-----------|
-| **Backend Development** | APIs RESTful, Arquitetura em Camadas, Microserviços |
+| **Backend Development** | APIs RESTful, Spring Boot, Arquitetura em Camadas, Microserviços |
 | **Data Structures & Algorithms** | Otimização, Análise de Complexidade, Problem-Solving |
-| **Database Design** | SQL avançado, Modelagem Relacional, Normalização |
+| **Database Design** | SQL avançado, MongoDB, Modelagem Relacional, Normalização |
 | **Object-Oriented Design** | SOLID Principles, Design Patterns, Refatoração |
 | **Clean Code** | Manutenibilidade, Testes, CI/CD |
-| **Full Stack Development** | Frontend + Backend integrado |
-</d🌐 Conectar Comigo
+| **Full Stack Development** | Frontend + Backend integrado com Spring Boot e .NET |
+| **Build Automation** | Maven, Gerenciamento de Dependências, Pipeline de Construção |
+
+## 🌐 Conectar Comigo
 
 <div align="center">
 
@@ -77,12 +108,11 @@ Interesse em conversar sobre desenvolvimento, arquitetura de software ou oportun
 - Discussões sobre arquitetura e design de software
 - Code reviews e pair programming
 - Mentorship e networking
-- 🔹 Estruturas de Dados e Algoritmos
-- 🔹 Desenvolvimento Backend
-- 🔹 Bancos de Dados Relacionais
-- 🔹 Resolução de Problemas Lógicos
-- 🔹 Desenvolvimento Full Stack
-- 🔹 Boas Práticas de Código e Clean Code
+- Colaborações em projetos com Spring Boot, .NET ou tecnologias relacionadas
+
+</div>
+
+---
 
 ## 📊 Estatísticas & Atividade
 
@@ -92,26 +122,8 @@ Interesse em conversar sobre desenvolvimento, arquitetura de software ou oportun
 
 ---
 
-*Perfil atualizado em janeiro de 2026* | Desenvolvedor em constante evolução profissionalcnologia, oportunidades de aprendizado e colaborações interessantes!
-
-## 📬 Como me Encontrar
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-gabrielsalesdavid%40hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielsalesdavid@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-gabrielsalesdavid-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsalesdavid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Sales%20David-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-s-java-python-csharp-sql/)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Se gostou do meu perfil, considere dar uma estrela nos meus repositórios!
-
-*Perfil atualizado em janeiro de 2026* ✨
-
-
+*Perfil atualizado em janeiro de 2026* | Desenvolvedor em constante evolução profissional
 
 </div>
