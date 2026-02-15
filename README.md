@@ -4,6 +4,10 @@
 
 Sou desenvolvedor Full Stack com foco em Backend Java (Spring Boot) e Frontend React. Construo APIs seguras e testáveis e interfaces que facilitam a experiência do usuário — sempre com atenção à entrega de valor rápido, qualidade de código e colaboração com times de produto.
 
+<div align="center">
+	<img src="assets/lang-pie.svg" alt="Distribuição linguagens estudadas" style="max-width:100%;height:auto;margin:18px 0;" />
+</div>
+
 ---
 
 **O que eu trago para seu time**
@@ -94,16 +98,17 @@ Links: https://github.com/gabrielsalesdavid
 
 ---
 
-### 📊 GitHub & Linguagens
+### 📊 Tecnologias estudadas
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielsalesdavid&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsalesdavid&layout=compact&langs_count=7&theme=nord" />
+Abaixo um resumo visual das tecnologias que venho estudando e aplicando em projetos.
+
+<img src="assets/tech-chart.svg" alt="Gráfico de tecnologias estudadas" />
 
 ---
 
 ### 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/seu-usuario-linkedin
+- LinkedIn: https://linkedin.com/in/gabriel-s-java-python-csharp-sql
 - Email: gabrielsalesdavid@hotmail.com
 
 ---

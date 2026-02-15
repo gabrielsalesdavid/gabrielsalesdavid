@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg{fill:#0b1220}
+    .title{fill:#cbd5e1;font-family:Arial, Helvetica, sans-serif;font-size:18px}
+    .label{fill:#94a3b8;font-family:Arial, Helvetica, sans-serif;font-size:12px}
+    .bar-text{fill:#0b1220;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:700}
+  </style>
+  <rect class="bg" x="0" y="0" width="700" height="260" rx="8"/>
+  <text x="20" y="36" class="title">Tecnologias em estudo</text>
+
+  <!-- Bars -->
+  <!-- Java -->
+  <rect x="160" y="60" width="460" height="18" rx="9" fill="#f97316" opacity="0.95"/>
+  <text x="24" y="74" class="label">Java</text>
+  <text x="620" y="74" class="bar-text">90%</text>
+
+  <!-- Spring -->
+  <rect x="160" y="100" width="420" height="18" rx="9" fill="#22c55e" opacity="0.95"/>
+  <text x="24" y="114" class="label">Spring Boot</text>
+  <text x="600" y="114" class="bar-text">82%</text>
+
+  <!-- React -->
+  <rect x="160" y="140" width="380" height="18" rx="9" fill="#60a5fa" opacity="0.95"/>
+  <text x="24" y="154" class="label">React</text>
+  <text x="560" y="154" class="bar-text">75%</text>
+
+  <!-- TypeScript -->
+  <rect x="160" y="180" width="300" height="18" rx="9" fill="#6366f1" opacity="0.95"/>
+  <text x="24" y="194" class="label">TypeScript</text>
+  <text x="480" y="194" class="bar-text">60%</text>
+
+  <!-- SQL -->
+  <rect x="160" y="220" width="260" height="18" rx="9" fill="#ef4444" opacity="0.95"/>
+  <text x="24" y="234" class="label">SQL (Postgres/MySQL)</text>
+  <text x="440" y="234" class="bar-text">52%</text>
+
+</svg>

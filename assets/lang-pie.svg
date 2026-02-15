@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="280" viewBox="0 0 600 280" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0b1220; }
+    .title { fill: #cbd5e1; font-family: Arial, Helvetica, sans-serif; font-size:18px }
+    .legend { fill: #94a3b8; font-family: Arial, Helvetica, sans-serif; font-size:13px }
+    .highlight { stroke: #ffffff; stroke-width:3; }
+  </style>
+  <rect class="bg" x="0" y="0" width="600" height="280" rx="8"/>
+  <text x="24" y="36" class="title">Linguagens estudadas — distribuição</text>
+
+  <!-- Pie chart center at (200,160) radius 100 -->
+  <!-- Slices: Java 35%, JS/TS 20%, Python 15%, SQL 10%, C# 8%, C/Delphi 7%, HTML/CSS 5% -->
+  <!-- Angles in degrees: multiply percent by 3.6 -->
+  <!-- Java 126deg, JS/TS 72deg, Python 54deg, SQL 36deg, C# 28.8deg, C/Delphi 25.2deg, HTML/CSS 18deg -->
+
+  <!-- Start angle at -90deg (top) -->
+  <!-- Java slice (highlighted) -->
+  <path d="M200,160 L200,60 A100,100 0 0,1 319.0,200.6 Z" fill="#f97316" class="highlight" />
+  <!-- JS/TS -->
+  <path d="M200,160 L319.0,200.6 A100,100 0 0,1 358.6,252.1 Z" fill="#60a5fa" />
+  <!-- Python -->
+  <path d="M200,160 L358.6,252.1 A100,100 0 0,1 334.5,292.6 Z" fill="#2563eb" />
+  <!-- SQL -->
+  <path d="M200,160 L334.5,292.6 A100,100 0 0,1 292.6,320.0 Z" fill="#ef4444" />
+  <!-- C# -->
+  <path d="M200,160 L292.6,320.0 A100,100 0 0,1 258.4,331.9 Z" fill="#10b981" />
+  <!-- C/Delphi -->
+  <path d="M200,160 L258.4,331.9 A100,100 0 0,1 226.3,332.8 Z" fill="#7c3aed" />
+  <!-- HTML/CSS -->
+  <path d="M200,160 L226.3,332.8 A100,100 0 0,1 200,260 Z" fill="#facc15" />
+
+  <!-- Center circle to create donut look -->
+  <circle cx="200" cy="160" r="48" fill="#0b1220" />
+  <text x="200" y="166" text-anchor="middle" fill="#cbd5e1" font-size="14" font-family="Arial">Mais usada</text>
+  <text x="200" y="184" text-anchor="middle" fill="#f97316" font-size="16" font-weight="700" font-family="Arial">Java — 35%</text>
+
+  <!-- Legend on the right -->
+  <g transform="translate(340,70)">
+    <rect x="0" y="0" width="14" height="14" fill="#f97316" /> <text x="22" y="12" class="legend">Java — 35%</text>
+    <rect x="0" y="26" width="14" height="14" fill="#60a5fa" /> <text x="22" y="38" class="legend">JS / TypeScript — 20%</text>
+    <rect x="0" y="52" width="14" height="14" fill="#2563eb" /> <text x="22" y="64" class="legend">Python — 15%</text>
+    <rect x="0" y="78" width="14" height="14" fill="#ef4444" /> <text x="22" y="90" class="legend">SQL — 10%</text>
+    <rect x="0" y="104" width="14" height="14" fill="#10b981" /> <text x="22" y="116" class="legend">C# — 8%</text>
+    <rect x="0" y="130" width="14" height="14" fill="#7c3aed" /> <text x="22" y="142" class="legend">C / Delphi — 7%</text>
+    <rect x="0" y="156" width="14" height="14" fill="#facc15" /> <text x="22" y="168" class="legend">HTML / CSS — 5%</text>
+  </g>
+
+</svg>
