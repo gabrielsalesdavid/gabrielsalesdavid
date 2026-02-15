@@ -1,59 +1,60 @@
-# Olá, eu sou o Gabriel Sales David! 👋
+# Gabriel Sales David — Desenvolvedor Full Stack Jr.
 
-### Desenvolvedor Full Stack Junior | Java, Spring Boot & React
+### Entrego APIs Java escaláveis e front-ends React que funcionam em produção
 
-Atualmente focado no ecossistema **Java**, construindo APIs robustas com **Spring Boot** e interfaces dinâmicas com **React**. Meu objetivo é entregar código limpo, escalável e que resolva problemas reais de negócio. 
-
-Sou movido por desafios técnicos e pela busca constante de evolução!
+Sou desenvolvedor Full Stack com foco em Backend Java (Spring Boot) e Frontend React. Construo APIs seguras e testáveis e interfaces que facilitam a experiência do usuário — sempre com atenção à entrega de valor rápido, qualidade de código e colaboração com times de produto.
 
 ---
 
-### 🛠️ No meu Técnico (Skills)
+**O que eu trago para seu time**
+
+- Entrega de features end-to-end (API + UI) com foco em segurança e desempenho
+- Boas práticas: arquitetura em camadas, DTOs, testes e tratamento de erros centralizado
+- Integração com serviços externos (APIs, SMS, gateways) e pipelines de CI/CD
+
+---
+
+### Principais competências
 
 | Camada | Tecnologias |
 | :--- | :--- |
-| **Backend** | Java (17+), Spring Boot (Security, JPA, OAuth2, JWT), Maven |
-| **Frontend** | ReactJS, TypeScript, Axios, HTML5, CSS3, Tailwind |
+| **Backend** | Java 17+, Spring Boot (Security, JPA, OAuth2/JWT), Maven |
+| **Frontend** | React, TypeScript, HTML5, CSS3, Tailwind, Axios |
 | **Banco de Dados** | PostgreSQL, MySQL, H2 (testes) |
-| **DevOps & Tools** | Docker, Git, CI/CD básico, Postman, Railway/Heroku |
+| **DevOps & Tools** | Docker, Git, CI/CD, Postman, Railway/Heroku |
 
 ---
 
-### 🏆 Projetos de Peso
+### Projetos selecionados
 
-#### 🛒 [DSCommerce](https://github.com/gabrielsalesdavid/dscommerce)
-Um e-commerce completo com sistema de pedidos e autenticação.
-* **O que aprendi:** Implementei segurança com **OAuth2 e JWT**, controle de perfil de acesso (Admin/Client) e tratamento global de exceções para garantir uma API resiliente.
-* **Techs:** Java, Spring, JPA, Bean Validation.
+- 🛒 DSCommerce — E-commerce com autenticação, controle de perfis e segurança baseada em OAuth2/JWT. (Java, Spring, React)
+- 📈 DSMeta — Dashboard de métricas com integração externa e envio de notificações (Twilio). (React, Spring)
+- 📂 DSCatalog — Catálogo de produtos com filtros avançados e paginação; arquitetura em camadas e boas práticas de DTOs.
 
-#### 📈 [DSMeta](https://github.com/gabrielsalesdavid/dsmeta)
-Sistema de monitoramento de vendas com integração externa.
-* **O que aprendi:** Comunicação entre Frontend e Backend, envio de notificações via **SMS (Twilio API)** e filtros de busca por data no banco de dados.
-* **Techs:** React, Java, Spring, TypeScript.
-
-#### 📂 [DSCatalog](https://github.com/gabrielsalesdavid/dscatalog)
-Catálogo de produtos com recursos avançados de filtragem e paginação.
-* **O que aprendi:** Arquitetura em camadas (Controller, Service, Repository) e as melhores práticas de **DTOs**.
+Links: https://github.com/gabrielsalesdavid
 
 ---
 
-### 📊 Estatísticas e Tecnologias
+### Como posso agregar valor
 
-| Status do GitHub | Linguagens mais usadas |
-| :---: | :---: |
-|
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielsalesdavid&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsalesdavid&layout=compact&langs_count=7&theme=nord" />
-  |
+- Acelerar entregas mantendo qualidade e testabilidade
+- Fortalecer segurança e autenticação em APIs
+- Construir integrações confiáveis com terceiros
 
 ---
 
-### 📫 Vamos trocar uma ideia?
+### 📊 GitHub & Linguagens
 
-Seja para falar sobre Java, arquitetura de sistemas ou sobre o próximo jogo no Allianz Parque, só chamar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielsalesdavid&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsalesdavid&layout=compact&langs_count=7&theme=nord" />
 
 ---
-> "Onde houver 1% de chance, haverá 99% de código." 💻
+
+### 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/seu-usuario-linkedin
+- Email: seu-email@exemplo.com
+
+---
+
+> Aberto a oportunidades: entrevistas técnicas, vagas CLT ou contratos remotos.
