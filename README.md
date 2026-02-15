@@ -37,12 +37,11 @@ Catálogo de produtos com recursos avançados de filtragem e paginação.
 
 ---
 
-### 📊 Minha Evolução no GitHub
+### 📊 Estatísticas e Tecnologias
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsalesdavid&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesdavid&layout=compact&langs_count=7&theme=nord"/>
-</div>
+| Status do GitHub | Linguagens mais usadas |
+| :---: | :---: |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielsalesdavid&show_icons=true&theme=nord&include_all_commits=true&count_private=true" /> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesdavid&layout=compact&langs_count=7&theme=nord" /> |
 
 ---
 
