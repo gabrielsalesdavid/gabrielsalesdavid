@@ -8,7 +8,7 @@ Sou movido por desafios técnicos e pela busca constante de evolução!
 
 ---
 
-### 🛠️ No meu "Estádio" Técnico (Skills)
+### 🛠️ No meu Técnico (Skills)
 
 | Camada | Tecnologias |
 | :--- | :--- |
