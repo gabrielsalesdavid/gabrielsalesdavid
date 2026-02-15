@@ -29,6 +29,11 @@ Sou desenvolvedor Full Stack com foco em Backend Java (Spring Boot) e Frontend R
 
 ---
 
+<div align="center">
+	<img src="assets/frameworks-pie.svg" alt="Distribuição de frameworks estudados" style="max-width:100%;height:auto;margin:18px 0;" />
+</div>
+
+
 ### Projetos selecionados
 
 - 🛒 DSCommerce — E-commerce com autenticação, controle de perfis e segurança baseada em OAuth2/JWT. (Java, Spring, React)
