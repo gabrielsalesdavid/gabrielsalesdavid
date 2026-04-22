@@ -52,9 +52,6 @@ Links: https://github.com/gabrielsalesdavid
 
 ---
 
----
-
-
 ### 📚 Repositórios de estudo (cursos / exercícios)
 
 > Esta seção é atualizada automaticamente com seus repositórios públicos.
@@ -122,9 +119,8 @@ Abaixo um resumo visual das tecnologias que venho estudando e aplicando em proje
 
 > Aberto a oportunidades: entrevistas técnicas, vagas CLT ou contratos remotos.
 
-    <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-uabrielsalesdavid>"/>  
-    </div>
+<div align="center">
+	<img alt="Visitor Stats" src="https://widgetbite.com/stats/gabrielsalesdavid"/>
+</div>
 
 ![Contador de Visitas](https://api.u8views.com/v3/gabrielsalesdavid/count)
