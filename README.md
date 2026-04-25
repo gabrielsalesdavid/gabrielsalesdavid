@@ -118,7 +118,3 @@ Abaixo um resumo visual das tecnologias que venho estudando e aplicando em proje
 ---
 
 > Aberto a oportunidades: entrevistas técnicas, vagas CLT ou contratos remotos.
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gabrielsalesdavid/count.svg" alt="Contador de Visitas" />
-</div>
