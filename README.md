@@ -119,5 +119,6 @@ Abaixo um resumo visual das tecnologias que venho estudando e aplicando em proje
 
 > Aberto a oportunidades: entrevistas técnicas, vagas CLT ou contratos remotos.
 
-![widgetbite](https://widgetbite.com/stats/gabrielsalesdavid)
-![Contador de Visitas](https://api.u8views.com/v3/gabrielsalesdavid/count)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gabrielsalesdavid/count.svg" alt="Contador de Visitas" />
+</div>
