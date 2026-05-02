@@ -57,6 +57,7 @@ Links: https://github.com/gabrielsalesdavid
 > Esta seção é atualizada automaticamente com seus repositórios públicos.
 
 <!-- repos-start -->
+- [DioMe-Bradesco](https://github.com/gabrielsalesdavid/DioMe-Bradesco)
 - [gabrielsalesdavid](https://github.com/gabrielsalesdavid/gabrielsalesdavid) — Config files for my GitHub profile.
 - [DevSuperior-Nivelamento-JavaScript](https://github.com/gabrielsalesdavid/DevSuperior-Nivelamento-JavaScript)
 - [Challenge](https://github.com/gabrielsalesdavid/Challenge)
@@ -65,7 +66,6 @@ Links: https://github.com/gabrielsalesdavid
 - [PROJECT-GRADLE-BOARD](https://github.com/gabrielsalesdavid/PROJECT-GRADLE-BOARD)
 - [Project-Gradle-Java-Lombok-With-Kotlin](https://github.com/gabrielsalesdavid/Project-Gradle-Java-Lombok-With-Kotlin)
 - [Project-Gradle-Java-With-Lombok](https://github.com/gabrielsalesdavid/Project-Gradle-Java-With-Lombok)
-- [DioMe-Bradesco](https://github.com/gabrielsalesdavid/DioMe-Bradesco)
 - [DevSuperior-GitHub](https://github.com/gabrielsalesdavid/DevSuperior-GitHub)
 - [DevSuperior-Linguagem-C](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-C)
 - [RocketSeat-NLW-Unite](https://github.com/gabrielsalesdavid/RocketSeat-NLW-Unite)
