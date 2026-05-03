@@ -57,6 +57,7 @@ Links: https://github.com/gabrielsalesdavid
 > Esta seção é atualizada automaticamente com seus repositórios públicos.
 
 <!-- repos-start -->
+- [DESAFIO-DIO-BANK](https://github.com/gabrielsalesdavid/DESAFIO-DIO-BANK)
 - [DioMe-Bradesco](https://github.com/gabrielsalesdavid/DioMe-Bradesco)
 - [gabrielsalesdavid](https://github.com/gabrielsalesdavid/gabrielsalesdavid) — Config files for my GitHub profile.
 - [DevSuperior-Nivelamento-JavaScript](https://github.com/gabrielsalesdavid/DevSuperior-Nivelamento-JavaScript)
