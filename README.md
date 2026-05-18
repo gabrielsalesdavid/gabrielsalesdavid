@@ -57,9 +57,9 @@ Links: https://github.com/gabrielsalesdavid
 > Esta seção é atualizada automaticamente com seus repositórios públicos.
 
 <!-- repos-start -->
-- [gabrielsalesdavid](https://github.com/gabrielsalesdavid/gabrielsalesdavid) — Config files for my GitHub profile.
 - [PythonProjectMei](https://github.com/gabrielsalesdavid/PythonProjectMei) — Desenvolvi uma forma mais simples para que o Usuário consiga acessar o sistema do Simples Nacional. É algo bem básico que, creio eu possa facilitar as pessoas no preenchimento do campo e na navegação entre as paginas.
 - [PythonProjectDasMei](https://github.com/gabrielsalesdavid/PythonProjectDasMei) — Desenvolvi uma aplicação para facilitar a vida de pessoas que possui uma certa dificuldade em acessar o sistema de acordo do DAS
+- [gabrielsalesdavid](https://github.com/gabrielsalesdavid/gabrielsalesdavid) — Config files for my GitHub profile.
 - [Project-Spring-Gradle-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Gradle-Dio)
 - [Project-Web-Security-Dio](https://github.com/gabrielsalesdavid/Project-Web-Security-Dio)
 - [Project-Spring-Web-Data-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Web-Data-Dio)
