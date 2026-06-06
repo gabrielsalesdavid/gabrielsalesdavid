@@ -57,9 +57,9 @@ Links: https://github.com/gabrielsalesdavid
 > Esta seção é atualizada automaticamente com seus repositórios públicos.
 
 <!-- repos-start -->
+- [gabrielsalesdavid](https://github.com/gabrielsalesdavid/gabrielsalesdavid) — Config files for my GitHub profile.
 - [Resumo-do-Lab-Dio](https://github.com/gabrielsalesdavid/Resumo-do-Lab-Dio) — Este repositório consiste numa breve apresentação sobre Cloud. Trago consigo um resmo e os detalhes do serviço.
 - [Project-Azure-IA-Dio](https://github.com/gabrielsalesdavid/Project-Azure-IA-Dio)
-- [gabrielsalesdavid](https://github.com/gabrielsalesdavid/gabrielsalesdavid) — Config files for my GitHub profile.
 - [Dio-Lab-Azure](https://github.com/gabrielsalesdavid/Dio-Lab-Azure) — Este repositório é focado na experiencia sobre o uso do Azure!
 - [Dio-Lab-Azure-BD](https://github.com/gabrielsalesdavid/Dio-Lab-Azure-BD)
 - [PythonProjectMei](https://github.com/gabrielsalesdavid/PythonProjectMei) — Desenvolvi uma forma mais simples para que o Usuário consiga acessar o sistema do Simples Nacional. É algo bem básico que, creio eu possa facilitar as pessoas no preenchimento do campo e na navegação entre as paginas.
