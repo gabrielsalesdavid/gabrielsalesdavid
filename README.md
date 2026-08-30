@@ -57,6 +57,7 @@ Links: https://github.com/gabrielsalesdavid
 > Esta seção é atualizada automaticamente com seus repositórios públicos.
 
 <!-- repos-start -->
+- [Estrutura-de-Dados-em-Java_Loiane_Groner](https://github.com/gabrielsalesdavid/Estrutura-de-Dados-em-Java_Loiane_Groner)
 - [gabrielsalesdavid](https://github.com/gabrielsalesdavid/gabrielsalesdavid) — Config files for my GitHub profile.
 - [Das-Mei](https://github.com/gabrielsalesdavid/Das-Mei)
 - [Desafio-Dio-Inter-Java-POO](https://github.com/gabrielsalesdavid/Desafio-Dio-Inter-Java-POO)
@@ -65,8 +66,8 @@ Links: https://github.com/gabrielsalesdavid
 - [Project-Azure-IA-Dio](https://github.com/gabrielsalesdavid/Project-Azure-IA-Dio)
 - [Dio-Lab-Azure](https://github.com/gabrielsalesdavid/Dio-Lab-Azure) — Este repositório é focado na experiencia sobre o uso do Azure!
 - [Dio-Lab-Azure-BD](https://github.com/gabrielsalesdavid/Dio-Lab-Azure-BD)
-- [PythonProjectDasMei](https://github.com/gabrielsalesdavid/PythonProjectDasMei) — Desenvolvi uma aplicação para facilitar a vida de pessoas que possui uma certa dificuldade em acessar o sistema de acordo do DAS
 - [PythonProjectMei](https://github.com/gabrielsalesdavid/PythonProjectMei) — Desenvolvi uma forma mais simples para que o Usuário consiga acessar o sistema do Simples Nacional. É algo bem básico que, creio eu possa facilitar as pessoas no preenchimento do campo e na navegação entre as paginas.
+- [PythonProjectDasMei](https://github.com/gabrielsalesdavid/PythonProjectDasMei) — Desenvolvi uma aplicação para facilitar a vida de pessoas que possui uma certa dificuldade em acessar o sistema de acordo do DAS
 - [Project-Spring-Gradle-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Gradle-Dio)
 - [Project-Web-Security-Dio](https://github.com/gabrielsalesdavid/Project-Web-Security-Dio)
 - [Project-Spring-Web-Data-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Web-Data-Dio)
