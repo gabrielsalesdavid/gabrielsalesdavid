@@ -50,16 +50,26 @@ def fetch_repos(username):
 
 
 def build_markdown_list(repos):
-    lines = []
+    groups = {}
     for repo in repos:
         name = repo.get('name')
+        if name in FEATURED_REPOS:
+            continue
         html_url = repo.get('html_url')
         desc = repo.get('description')
-        if desc and name not in FEATURED_REPOS:
-            lines.append(f'- [{name}]({html_url}) — {desc}')
+        language = repo.get('language') or 'Sem linguagem definida'
+        if desc:
+            entry = f'- [{name}]({html_url}) — {desc}'
         else:
-            lines.append(f'- [{name}]({html_url})')
-    return '\n'.join(lines)
+            entry = f'- [{name}]({html_url})'
+        groups.setdefault(language, []).append(entry)
+
+    lines = []
+    for language, entries in groups.items():
+        lines.append(f'### {language}')
+        lines.extend(entries)
+        lines.append('')
+    return '\n'.join(lines).rstrip()
 
 
 def replace_section(readme_path, new_section_md):
