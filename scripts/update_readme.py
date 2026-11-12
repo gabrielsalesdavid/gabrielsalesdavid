@@ -9,6 +9,15 @@ from urllib.parse import urlparse
 README = 'README.md'
 MARKER_START = '<!-- repos-start -->'
 MARKER_END = '<!-- repos-end -->'
+FEATURED_REPOS = {
+    'PythonProjectMei',
+    'PythonProjectDasMei',
+    'Project-Spring-Web-API-Swagger-Dio',
+    'Project-Web-Security-Dio',
+    'Project-Spring-JPA-Data-Dio',
+    'Dio-Lab-Azure',
+    'Project-Azure-IA-Dio',
+}
 
 
 def get_github_username():
@@ -46,7 +55,7 @@ def build_markdown_list(repos):
         name = repo.get('name')
         html_url = repo.get('html_url')
         desc = repo.get('description')
-        if desc:
+        if desc and name not in FEATURED_REPOS:
             lines.append(f'- [{name}]({html_url}) — {desc}')
         else:
             lines.append(f'- [{name}]({html_url})')
