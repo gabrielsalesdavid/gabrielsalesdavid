@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Gabriel Sales David - Desenvolvedor Full Stack</title>
+  <desc id="description">Backend com Java e Spring Boot, frontend com React e TypeScript.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <circle cx="1050" cy="40" r="180" fill="#2563eb" opacity=".14"/>
+  <circle cx="1120" cy="290" r="150" fill="#22c55e" opacity=".12"/>
+  <path d="M0 250 C260 210 430 320 710 245 S1040 205 1200 245" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".8"/>
+  <g fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="106" font-size="22" letter-spacing="4">GABRIEL SALES DAVID</text>
+    <text x="68" y="174" fill="#ffffff" font-size="52" font-weight="700">Desenvolvedor Full Stack</text>
+    <text x="72" y="218" font-size="23">Java  |  Spring Boot  |  React  |  TypeScript</text>
+  </g>
+  <g transform="translate(945 90)" fill="none" stroke="#93c5fd" stroke-width="4" opacity=".9">
+    <path d="M42 0 0 52l42 52M110 0l42 52-42 52M91-8 61 112"/>
+  </g>
+</svg>
