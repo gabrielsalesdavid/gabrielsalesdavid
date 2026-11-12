@@ -85,117 +85,153 @@ public class ProdutoController {
 
 ## Repositórios públicos
 
-<div align="center">
-  <img src="assets/featured-python.svg" alt="Ilustração dos projetos PythonProjectMei e PythonProjectDasMei" width="100%" />
-</div>
-
-- [PythonProjectMei](https://github.com/gabrielsalesdavid/PythonProjectMei)
-- [PythonProjectDasMei](https://github.com/gabrielsalesdavid/PythonProjectDasMei)
-
-<div align="center">
-  <img src="assets/featured-java-spring.svg" alt="Ilustração dos estudos Java e Spring sobre APIs, segurança e persistência" width="100%" />
-</div>
-
-- [Project-Spring-Web-API-Swagger-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Web-API-Swagger-Dio)
-- [Project-Web-Security-Dio](https://github.com/gabrielsalesdavid/Project-Web-Security-Dio)
-- [Project-Spring-JPA-Data-Dio](https://github.com/gabrielsalesdavid/Project-Spring-JPA-Data-Dio)
-
-<div align="center">
-  <img src="assets/endpoint-implementation-steps.gif" alt="Animação das etapas para implementar e validar um endpoint: contrato, validação, controller, service, persistência, resposta e testes" width="100%" />
-</div>
-
-<div align="center">
-  <img src="assets/featured-azure.svg" alt="Ilustração dos projetos de estudo relacionados a Microsoft Azure e inteligência artificial" width="100%" />
-</div>
-
-- [Dio-Lab-Azure](https://github.com/gabrielsalesdavid/Dio-Lab-Azure)
-- [Project-Azure-IA-Dio](https://github.com/gabrielsalesdavid/Project-Azure-IA-Dio)
-
-> Os projetos acima incluem estudos e exercícios de cursos; consulte cada repositório para ver o escopo, tecnologias e estado atuais.
-
-<details>
-  <summary>Ver os demais repositórios por linguagem</summary>
-  <br />
-
-> Lista atualizada automaticamente com a linguagem principal e as descrições cadastradas no GitHub, quando disponíveis.
-
-<!-- repos-start -->
-### Python
-- [gabrielsalesdavid](https://github.com/gabrielsalesdavid/gabrielsalesdavid) — Config files for my GitHub profile.
-- [Algoritmos-E-Estruturas-De-Dados-Linux_Tips](https://github.com/gabrielsalesdavid/Algoritmos-E-Estruturas-De-Dados-Linux_Tips)
-- [DevSuperior-Linguagem-Python](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-Python)
-- [Testes-Linkedin](https://github.com/gabrielsalesdavid/Testes-Linkedin) — Faço testes de QUIZ que aparece na minha timeline do linke... Caso aja duvida sobre o resultado ou ate mesmo para compreende-lo!
-- [DevSuperior-Desafio-Git-Merge](https://github.com/gabrielsalesdavid/DevSuperior-Desafio-Git-Merge)
-- [Alura-Itensivo-Python](https://github.com/gabrielsalesdavid/Alura-Itensivo-Python)
-
-### JavaScript
-- [Origamid-JavaScript-Completo-ES6](https://github.com/gabrielsalesdavid/Origamid-JavaScript-Completo-ES6)
-- [JavaScript-Fernanda-Kipper](https://github.com/gabrielsalesdavid/JavaScript-Fernanda-Kipper)
-- [DevSuperior-Nivelamento-JavaScript](https://github.com/gabrielsalesdavid/DevSuperior-Nivelamento-JavaScript)
-- [DevSuperior-Estrutura-De-Dados](https://github.com/gabrielsalesdavid/DevSuperior-Estrutura-De-Dados)
-- [Alura-Cypress-Automatizando-Testes-E2E](https://github.com/gabrielsalesdavid/Alura-Cypress-Automatizando-Testes-E2E)
-- [Descomplica](https://github.com/gabrielsalesdavid/Descomplica)
+> Organizei os repositórios pela linguagem e pelo objetivo observado no código ou na documentação. Projetos sem documentação suficiente estão identificados como tal.
 
 ### Java
-- [Dio-Everis-New-Talents](https://github.com/gabrielsalesdavid/Dio-Everis-New-Talents)
-- [Estrutura-de-Dados-em-Java_Loiane_Groner](https://github.com/gabrielsalesdavid/Estrutura-de-Dados-em-Java_Loiane_Groner)
-- [Desafio-Dio-Inter-Java-POO](https://github.com/gabrielsalesdavid/Desafio-Dio-Inter-Java-POO)
-- [Dio-Project-Inter](https://github.com/gabrielsalesdavid/Dio-Project-Inter)
-- [Project-Spring-Gradle-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Gradle-Dio)
-- [Project-Spring-Web-Data-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Web-Data-Dio)
-- [Porject-Spring-Maven-Java-With-Lombok-Dio](https://github.com/gabrielsalesdavid/Porject-Spring-Maven-Java-With-Lombok-Dio)
-- [Project-Gradle-Java-Lombok-With-Kotlin](https://github.com/gabrielsalesdavid/Project-Gradle-Java-Lombok-With-Kotlin)
-- [DESAFIO-DIO-BANK](https://github.com/gabrielsalesdavid/DESAFIO-DIO-BANK)
-- [DioMe-Bradesco](https://github.com/gabrielsalesdavid/DioMe-Bradesco)
-- [DioMe-Fundamentos-Java](https://github.com/gabrielsalesdavid/DioMe-Fundamentos-Java)
-- [PROJECT-MAVEN-JAVA-WITH-LOMBOK](https://github.com/gabrielsalesdavid/PROJECT-MAVEN-JAVA-WITH-LOMBOK)
-- [Project-Gradle-Java-With-Lombok](https://github.com/gabrielsalesdavid/Project-Gradle-Java-With-Lombok)
-- [RocketSeat-NLW-Unite](https://github.com/gabrielsalesdavid/RocketSeat-NLW-Unite)
-- [RocketSeat-NLW-Journey](https://github.com/gabrielsalesdavid/RocketSeat-NLW-Journey)
-- [DioMe-Avanade-Spring-Boot](https://github.com/gabrielsalesdavid/DioMe-Avanade-Spring-Boot)
-- [DioMe-Conta-Banco-Project](https://github.com/gabrielsalesdavid/DioMe-Conta-Banco-Project)
-- [Udemy-Nelio-Alves-Java-Completo-2023-Poo-Proje](https://github.com/gabrielsalesdavid/Udemy-Nelio-Alves-Java-Completo-2023-Poo-Proje)
-- [DioMe-Bradesco-Desafio](https://github.com/gabrielsalesdavid/DioMe-Bradesco-Desafio)
-- [DioMe-Jogo-Sudoku](https://github.com/gabrielsalesdavid/DioMe-Jogo-Sudoku)
-- [DevSuperior-Linguagem-Java](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-Java)
-- [DevSuperior-Intesivao-Java-Spring](https://github.com/gabrielsalesdavid/DevSuperior-Intesivao-Java-Spring)
-- [DioME-UML](https://github.com/gabrielsalesdavid/DioME-UML)
 
-### Sem linguagem definida
-- [Das-Mei](https://github.com/gabrielsalesdavid/Das-Mei)
-- [Resumo-do-Lab-Dio](https://github.com/gabrielsalesdavid/Resumo-do-Lab-Dio) — Este repositório consiste numa breve apresentação sobre Cloud. Trago consigo um resmo e os detalhes do serviço.
-- [Dio-Lab-Azure-BD](https://github.com/gabrielsalesdavid/Dio-Lab-Azure-BD)
-- [DevSuperiorSQL-DDL-DML](https://github.com/gabrielsalesdavid/DevSuperiorSQL-DDL-DML)
-- [DevSuperior-Consultas-em-SQL](https://github.com/gabrielsalesdavid/DevSuperior-Consultas-em-SQL)
-- [DevSuperior-Java](https://github.com/gabrielsalesdavid/DevSuperior-Java)
-- [DevSuperior-Banco-de-Dados-SQL](https://github.com/gabrielsalesdavid/DevSuperior-Banco-de-Dados-SQL)
-- [DevSuperior-Logica-de-Programacao-e-Algoritmo](https://github.com/gabrielsalesdavid/DevSuperior-Logica-de-Programacao-e-Algoritmo)
-- [Delphi-Sistema-Clinica](https://github.com/gabrielsalesdavid/Delphi-Sistema-Clinica)
-- [Delphi-Agenda](https://github.com/gabrielsalesdavid/Delphi-Agenda)
+<div align="center">
+  <img src="assets/featured-java-spring.svg" alt="Estudos Java e Spring sobre APIs, segurança e persistência" width="100%" />
+</div>
 
-### Batchfile
-- [Challenge](https://github.com/gabrielsalesdavid/Challenge)
+#### Spring Boot, APIs e aplicações
 
-### HTML
-- [PROJECT-GRADLE-BOARD](https://github.com/gabrielsalesdavid/PROJECT-GRADLE-BOARD)
-- [DevSuperior-GitHub](https://github.com/gabrielsalesdavid/DevSuperior-GitHub)
-- [DevSuperior-Desafio-Git-Reset](https://github.com/gabrielsalesdavid/DevSuperior-Desafio-Git-Reset)
-- [DevSuperior-Nivelamento-HTML-CSS](https://github.com/gabrielsalesdavid/DevSuperior-Nivelamento-HTML-CSS)
+- [Project-Spring-Gradle-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Gradle-Dio) — Aplicação de estudo em Spring Boot e Gradle, com arquitetura em camadas e exemplos de boas práticas em Java e Kotlin.
+- [Project-Web-Security-Dio](https://github.com/gabrielsalesdavid/Project-Web-Security-Dio) — Exercícios de segurança web com Spring Boot, acompanhados de material sobre autenticação e autorização.
+- [Project-Spring-Web-Data-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Web-Data-Dio) — API Spring Boot para cadastro e gerenciamento de clientes e endereços.
+- [Project-Spring-Web-API-Swagger-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Web-API-Swagger-Dio) — API REST em Spring Boot com documentação Swagger.
+- [Project-Spring-JPA-Data-Dio](https://github.com/gabrielsalesdavid/Project-Spring-JPA-Data-Dio) — CRUD de usuários com Spring Data JPA, Hibernate e PostgreSQL.
+- [Porject-Spring-Maven-Java-With-Lombok-Dio](https://github.com/gabrielsalesdavid/Porject-Spring-Maven-Java-With-Lombok-Dio) — Projeto educacional de Spring Boot com Maven e Lombok.
+- [Project-Gradle-Java-Lombok-With-Kotlin](https://github.com/gabrielsalesdavid/Project-Gradle-Java-Lombok-With-Kotlin) — Estudos de Java e Kotlin com Gradle, Lombok e padrão Builder.
+- [PROJECT-MAVEN-JAVA-WITH-LOMBOK](https://github.com/gabrielsalesdavid/PROJECT-MAVEN-JAVA-WITH-LOMBOK) — Projeto de curso para praticar Java, Maven e Lombok.
+- [PROJECT-GRADLE-BOARD](https://github.com/gabrielsalesdavid/PROJECT-GRADLE-BOARD) — Aplicação de gerenciamento de tarefas no estilo Kanban, feita com Java, Kotlin e persistência SQL.
+- [Project-Gradle-Java-With-Lombok](https://github.com/gabrielsalesdavid/Project-Gradle-Java-With-Lombok) — Exemplo de projeto Java com Gradle, Lombok e MapStruct.
+- [DioMe-Avanade-Spring-Boot](https://github.com/gabrielsalesdavid/DioMe-Avanade-Spring-Boot) — API REST de gerenciamento de livros, desenvolvida como exercício de Spring Boot.
+- [DevSuperior-Intesivao-Java-Spring](https://github.com/gabrielsalesdavid/DevSuperior-Intesivao-Java-Spring) — Projeto e anotações do curso Intensivão Java Spring da DevSuperior.
+- [RocketSeat-NLW-Unite](https://github.com/gabrielsalesdavid/RocketSeat-NLW-Unite) — Backend Pass.In para eventos, participantes e registro de check-in, desenvolvido com Spring Boot.
+- [RocketSeat-NLW-Journey](https://github.com/gabrielsalesdavid/RocketSeat-NLW-Journey) — Aplicação para planejar viagens, participantes, atividades e links úteis.
 
-### C
-- [DevSuperior-Linguagem-C](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-C)
+<div align="center">
+  <img src="assets/api-request-flow.gif" alt="Animação do fluxo de uma requisição REST pelas camadas de uma API" width="100%" />
+  <img src="assets/endpoint-implementation-steps.gif" alt="Animação das etapas de implementação e validação de um endpoint" width="100%" />
+</div>
+
+#### Fundamentos, orientação a objetos e exercícios
+
+- [Dio-Everis-New-Talents](https://github.com/gabrielsalesdavid/Dio-Everis-New-Talents) — Exercícios introdutórios de Java sobre tipos, valores padrão e classes.
+- [Estrutura-de-Dados-em-Java_Loiane_Groner](https://github.com/gabrielsalesdavid/Estrutura-de-Dados-em-Java_Loiane_Groner) — Implementações didáticas de vetores, estruturas genéricas, pilhas, filas e fila prioritária.
+- [Desafio-Dio-Inter-Java-POO](https://github.com/gabrielsalesdavid/Desafio-Dio-Inter-Java-POO) — Modelo de bootcamp em Java com cursos, mentorias, conteúdos e desenvolvedores inscritos.
+- [Dio-Project-Inter](https://github.com/gabrielsalesdavid/Dio-Project-Inter) — Exercícios de lógica e fundamentos Java, como matrizes, cálculos, condicionais e laços.
+- [DESAFIO-DIO-BANK](https://github.com/gabrielsalesdavid/DESAFIO-DIO-BANK) — Simulação de operações bancárias para praticar orientação a objetos.
+- [DioMe-Bradesco](https://github.com/gabrielsalesdavid/DioMe-Bradesco) — Coleção de projetos e exercícios de Java do bootcamp DIO/Bradesco.
+- [DioMe-Fundamentos-Java](https://github.com/gabrielsalesdavid/DioMe-Fundamentos-Java) — Material e exercícios de fundamentos da linguagem Java.
+- [DioMe-Conta-Banco-Project](https://github.com/gabrielsalesdavid/DioMe-Conta-Banco-Project) — Exercício de modelagem de cliente e conta bancária em Java.
+- [Udemy-Nelio-Alves-Java-Completo-2023-Poo-Proje](https://github.com/gabrielsalesdavid/Udemy-Nelio-Alves-Java-Completo-2023-Poo-Proje) — Exercícios do curso de Java, incluindo classes, encapsulamento e generics.
+- [DioMe-Bradesco-Desafio](https://github.com/gabrielsalesdavid/DioMe-Bradesco-Desafio) — Desafio Java com validação de parâmetros e tratamento de exceções.
+- [DioMe-Jogo-Sudoku](https://github.com/gabrielsalesdavid/DioMe-Jogo-Sudoku) — Jogo de Sudoku com tabuleiro, regras e interface de interação.
+- [DevSuperior-Linguagem-Java](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-Java) — Exemplos e exercícios de programação Java da DevSuperior.
+- [DevSuperior-Java](https://github.com/gabrielsalesdavid/DevSuperior-Java) — Repositório de estudos de Java; o README atual não detalha o conteúdo.
+
+### JavaScript
+
+#### Fundamentos e aplicações
+
+- [Origamid-JavaScript-Completo-ES6](https://github.com/gabrielsalesdavid/Origamid-JavaScript-Completo-ES6) — Aulas e exercícios de JavaScript ES6 e manipulação do DOM, com exemplos em HTML e CSS.
+- [JavaScript-Fernanda-Kipper](https://github.com/gabrielsalesdavid/JavaScript-Fernanda-Kipper) — Material introdutório de JavaScript e HTML, com exemplos comentados em português.
+- [DevSuperior-Nivelamento-JavaScript](https://github.com/gabrielsalesdavid/DevSuperior-Nivelamento-JavaScript) — Exercícios e pequenos projetos para nivelamento em JavaScript.
+- [Descomplica](https://github.com/gabrielsalesdavid/Descomplica) — Atividade introdutória com exercícios de funções em JavaScript.
+
+#### Estruturas de dados e testes
+
+- [DevSuperior-Estrutura-De-Dados](https://github.com/gabrielsalesdavid/DevSuperior-Estrutura-De-Dados) — Exercícios de estruturas de dados e algoritmos em JavaScript puro.
+- [Alura-Cypress-Automatizando-Testes-E2E](https://github.com/gabrielsalesdavid/Alura-Cypress-Automatizando-Testes-E2E) — Testes automatizados E2E com Cypress para uma aplicação de adoção de animais.
+
+### Python
+
+<div align="center">
+  <img src="assets/featured-python.svg" alt="Projetos Python para simplificar tarefas relacionadas a MEI e DAS" width="100%" />
+</div>
+
+#### Aplicações para MEI
+
+- [PythonProjectMei](https://github.com/gabrielsalesdavid/PythonProjectMei) — Aplicação Streamlit para orientar microempreendedores no acesso e preenchimento relacionado ao DAS do Simples Nacional.
+- [PythonProjectDasMei](https://github.com/gabrielsalesdavid/PythonProjectDasMei) — Aplicação Streamlit de apoio a tarefas do DAS-MEI, acompanhada de material de estudo sobre Python.
+
+#### Fundamentos, algoritmos e estudos
+
+- [Algoritmos-E-Estruturas-De-Dados-Linux_Tips](https://github.com/gabrielsalesdavid/Algoritmos-E-Estruturas-De-Dados-Linux_Tips) — Estudos práticos de Python, algoritmos e estruturas de dados, com exemplos comentados.
+- [DevSuperior-Linguagem-Python](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-Python) — Fundamentos e exemplos de programação em Python da DevSuperior.
+- [Alura-Itensivo-Python](https://github.com/gabrielsalesdavid/Alura-Itensivo-Python) — Exercícios e exemplos práticos do curso de Python da Alura.
+- [Testes-Linkedin](https://github.com/gabrielsalesdavid/Testes-Linkedin) — Script pessoal em Python relacionado a quizzes do LinkedIn; o repositório não possui documentação técnica detalhada.
 
 ### C#
-- [DevSuperior-Linguagem-em-C-Sharp](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-em-C-Sharp)
-- [DevSuperior-C-Sharp](https://github.com/gabrielsalesdavid/DevSuperior-C-Sharp)
-- [RocketSeat-NLW-Expert](https://github.com/gabrielsalesdavid/RocketSeat-NLW-Expert)
+
+- [DevSuperior-Linguagem-em-C-Sharp](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-em-C-Sharp) — Exemplos e exercícios introdutórios de C# da DevSuperior.
+- [DevSuperior-C-Sharp](https://github.com/gabrielsalesdavid/DevSuperior-C-Sharp) — Material de estudo e exercícios de C# e orientação a objetos.
+- [RocketSeat-NLW-Expert](https://github.com/gabrielsalesdavid/RocketSeat-NLW-Expert) — API REST de leilões desenvolvida em C# e .NET 8 durante o NLW Expert.
+
+### C
+
+- [DevSuperior-Linguagem-C](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-C) — Exemplos e exercícios de programação em C.
 
 ### C++
-- [DevSuperior-Linguagem-C-PP](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-C-PP)
-<!-- repos-end -->
 
-  <br />
-</details>
+- [DevSuperior-Linguagem-C-PP](https://github.com/gabrielsalesdavid/DevSuperior-Linguagem-C-PP) — Exercícios de C++, incluindo conceitos de orientação a objetos.
+
+### HTML e CSS
+
+- [DevSuperior-GitHub](https://github.com/gabrielsalesdavid/DevSuperior-GitHub) — Estudos de fundamentos de programação web.
+- [DevSuperior-Nivelamento-HTML-CSS](https://github.com/gabrielsalesdavid/DevSuperior-Nivelamento-HTML-CSS) — Exercícios de HTML5 e CSS3 com foco em interfaces responsivas.
+
+### SQL e bancos de dados
+
+- [DevSuperiorSQL-DDL-DML](https://github.com/gabrielsalesdavid/DevSuperiorSQL-DDL-DML) — Material de estudo sobre comandos SQL de definição e manipulação de dados (DDL e DML).
+- [DevSuperior-Consultas-em-SQL](https://github.com/gabrielsalesdavid/DevSuperior-Consultas-em-SQL) — Consultas, scripts e exercícios de SQL.
+- [DevSuperior-Banco-de-Dados-SQL](https://github.com/gabrielsalesdavid/DevSuperior-Banco-de-Dados-SQL) — Material de aprendizado sobre bancos de dados relacionais e SQL.
+
+### Lógica de programação
+
+- [DevSuperior-Logica-de-Programacao-e-Algoritmo](https://github.com/gabrielsalesdavid/DevSuperior-Logica-de-Programacao-e-Algoritmo) — Exemplos e exercícios de lógica e algoritmos em Portugol/VisualG.
+
+### Git e GitHub
+
+- [DevSuperior-Desafio-Git-Reset](https://github.com/gabrielsalesdavid/DevSuperior-Desafio-Git-Reset) — Exercício de versionamento para praticar operações de reset no Git.
+- [DevSuperior-Desafio-Git-Merge](https://github.com/gabrielsalesdavid/DevSuperior-Desafio-Git-Merge) — Exercício de Git com foco em merge e resolução de conflitos.
+
+### Cloud e Azure
+
+<div align="center">
+  <img src="assets/featured-azure.svg" alt="Projetos de estudo sobre Microsoft Azure e inteligência artificial" width="100%" />
+</div>
+
+- [Resumo-do-Lab-Dio](https://github.com/gabrielsalesdavid/Resumo-do-Lab-Dio) — Material de estudo sobre computação em nuvem, modelos de serviço, implementação e custos.
+- [Dio-Lab-Azure](https://github.com/gabrielsalesdavid/Dio-Lab-Azure) — Guia ilustrado para criar e conectar uma máquina virtual no Microsoft Azure.
+- [Dio-Lab-Azure-BD](https://github.com/gabrielsalesdavid/Dio-Lab-Azure-BD) — Passo a passo de criação e conexão a um banco de dados SQL no Azure.
+- [Project-Azure-IA-Dio](https://github.com/gabrielsalesdavid/Project-Azure-IA-Dio) — Documentação de estudo dos serviços Azure AI, incluindo Speech, Language e Vision.
+
+### Delphi
+
+- [Delphi-Sistema-Clinica](https://github.com/gabrielsalesdavid/Delphi-Sistema-Clinica) — Projeto de sistema para clínica em Delphi; o README atual não descreve suas funcionalidades.
+- [Delphi-Agenda](https://github.com/gabrielsalesdavid/Delphi-Agenda) — Projeto de agenda em Delphi; consulte o código do repositório para conhecer o escopo atual.
+
+### Ambiente de desenvolvimento integrado
+
+- [Challenge](https://github.com/gabrielsalesdavid/Challenge) — Arquivos de orquestração de um ambiente local para o HypeSoft ShopSense, com serviços de frontend, API, MongoDB, Keycloak e Nginx, além de scripts de verificação.
+
+### Projeto visual relacionado a MEI/DAS
+
+- [Das-Mei](https://github.com/gabrielsalesdavid/Das-Mei) — Repositório relacionado ao DAS-MEI com artefatos de uma plataforma visual; não há README funcional que permita detalhar o fluxo com segurança.
+
+### Modelagem UML
+
+- [DioME-UML](https://github.com/gabrielsalesdavid/DioME-UML) — Repositório com tema UML; atualmente contém apenas uma classe Java inicial, sem diagramas ou funcionalidades documentadas.
+
+### Configuração do perfil
+
+- [gabrielsalesdavid](https://github.com/gabrielsalesdavid/gabrielsalesdavid) — Arquivos de configuração e conteúdo deste perfil do GitHub.
+
+<!-- repos-start -->
+
+<!-- repos-end -->
 
 Aberto a conversar sobre oportunidades, entrevistas técnicas e projetos de desenvolvimento.
 

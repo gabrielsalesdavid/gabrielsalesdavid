@@ -9,15 +9,6 @@ from urllib.parse import urlparse
 README = 'README.md'
 MARKER_START = '<!-- repos-start -->'
 MARKER_END = '<!-- repos-end -->'
-FEATURED_REPOS = {
-    'PythonProjectMei',
-    'PythonProjectDasMei',
-    'Project-Spring-Web-API-Swagger-Dio',
-    'Project-Web-Security-Dio',
-    'Project-Spring-JPA-Data-Dio',
-    'Dio-Lab-Azure',
-    'Project-Azure-IA-Dio',
-}
 
 
 def get_github_username():
@@ -49,27 +40,41 @@ def fetch_repos(username):
     return r.json()
 
 
-def build_markdown_list(repos):
-    groups = {}
+def get_curated_repo_names(readme_path, username):
+    with open(readme_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    markers = re.compile(re.escape(MARKER_START) + r'.*?' + re.escape(MARKER_END), re.S)
+    content = markers.sub('', content)
+    pattern = re.compile(
+        r'https?://github\.com/' + re.escape(username) + r'/([^/?#\s)]+)',
+        re.IGNORECASE,
+    )
+    return {match.lower() for match in pattern.findall(content)}
+
+
+def build_markdown_list(repos, curated_repo_names):
+    lines = []
     for repo in repos:
         name = repo.get('name')
-        if name in FEATURED_REPOS:
+        if name.lower() in curated_repo_names:
             continue
         html_url = repo.get('html_url')
         desc = repo.get('description')
-        language = repo.get('language') or 'Sem linguagem definida'
+        language = repo.get('language') or 'não identificada pelo GitHub'
+        details = [f'Linguagem detectada: {language}']
         if desc:
-            entry = f'- [{name}]({html_url}) — {desc}'
-        else:
-            entry = f'- [{name}]({html_url})'
-        groups.setdefault(language, []).append(entry)
+            details.append(desc)
+        lines.append(f'- [{name}]({html_url}) — {"; ".join(details)}')
 
-    lines = []
-    for language, entries in groups.items():
-        lines.append(f'### {language}')
-        lines.extend(entries)
-        lines.append('')
-    return '\n'.join(lines).rstrip()
+    if not lines:
+        return ''
+    return (
+        '<details>\n'
+        '  <summary>Novos repositórios aguardando categorização</summary>\n'
+        '  <br />\n\n'
+        + '\n'.join(lines)
+        + '\n</details>'
+    )
 
 
 def replace_section(readme_path, new_section_md):
@@ -98,9 +103,10 @@ def main():
     except Exception as e:
         print('Failed to fetch repos:', e)
         sys.exit(1)
-    md = build_markdown_list(repos)
+    curated_repo_names = get_curated_repo_names(README, username)
+    md = build_markdown_list(repos, curated_repo_names)
     replace_section(README, md)
-    print('README updated with', len(repos), 'repos')
+    print('README updated; repositories awaiting categorization:', md.count('\n- ['))
 
 
 if __name__ == '__main__':
