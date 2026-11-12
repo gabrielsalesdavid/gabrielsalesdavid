@@ -129,6 +129,10 @@ public class ProdutoController {
 
 ## Passo a passo para implementar e validar um endpoint
 
+<div align="center">
+  <img src="assets/endpoint-implementation-steps.gif" alt="Animação das sete etapas: contrato, validação, controller, service, persistência, resposta e testes/documentação" width="100%" />
+</div>
+
 1. **Definir o recurso e o contrato:** decidir rota, método HTTP, campos recebidos e estrutura da resposta.
 2. **Validar a entrada:** criar DTOs e restrições, como `@NotBlank` e `@Positive`, quando aplicável.
 3. **Implementar o caso de uso:** manter regras no service e deixar o controller responsável pela borda HTTP.
@@ -141,16 +145,28 @@ public class ProdutoController {
 
 ### Aplicações Python
 
+<div align="center">
+  <img src="assets/featured-python.svg" alt="Ilustração dos projetos PythonProjectMei e PythonProjectDasMei" width="100%" />
+</div>
+
 - [PythonProjectMei](https://github.com/gabrielsalesdavid/PythonProjectMei) — ferramenta para facilitar o acesso ao sistema do Simples Nacional e o preenchimento das informações.
 - [PythonProjectDasMei](https://github.com/gabrielsalesdavid/PythonProjectDasMei) — aplicação criada para simplificar o acesso ao sistema relacionado ao DAS.
 
 ### Java e Spring
+
+<div align="center">
+  <img src="assets/featured-java-spring.svg" alt="Ilustração dos estudos Java e Spring sobre APIs, segurança e persistência" width="100%" />
+</div>
 
 - [Project-Spring-Web-API-Swagger-Dio](https://github.com/gabrielsalesdavid/Project-Spring-Web-API-Swagger-Dio) — projeto de estudo com Java, Spring Web, APIs e Swagger.
 - [Project-Web-Security-Dio](https://github.com/gabrielsalesdavid/Project-Web-Security-Dio) — projeto de estudo voltado à segurança web no ecossistema Java.
 - [Project-Spring-JPA-Data-Dio](https://github.com/gabrielsalesdavid/Project-Spring-JPA-Data-Dio) — exercício com Spring Data JPA e persistência.
 
 ### Cloud e Azure
+
+<div align="center">
+  <img src="assets/featured-azure.svg" alt="Ilustração dos projetos de estudo relacionados a Microsoft Azure e inteligência artificial" width="100%" />
+</div>
 
 - [Dio-Lab-Azure](https://github.com/gabrielsalesdavid/Dio-Lab-Azure) — anotações e experimentos de aprendizado sobre Microsoft Azure.
 - [Project-Azure-IA-Dio](https://github.com/gabrielsalesdavid/Project-Azure-IA-Dio) — repositório de estudo relacionado a Azure e inteligência artificial.
@@ -225,11 +241,5 @@ public class ProdutoController {
 - [Descomplica](https://github.com/gabrielsalesdavid/Descomplica)
 - [DioME-UML](https://github.com/gabrielsalesdavid/DioME-UML)
 <!-- repos-end -->
-
-## Contato
-
-- **LinkedIn:** [gabriel-s-java-python-csharp-sql](https://linkedin.com/in/gabriel-s-java-python-csharp-sql)
-- **Email:** [gabrielsalesdavid@hotmail.com](mailto:gabrielsalesdavid@hotmail.com)
-- **GitHub:** [github.com/gabrielsalesdavid](https://github.com/gabrielsalesdavid)
 
 Aberto a conversar sobre oportunidades, entrevistas técnicas e projetos de desenvolvimento.
