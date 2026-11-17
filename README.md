@@ -230,7 +230,12 @@ public class ProdutoController {
 - [gabrielsalesdavid](https://github.com/gabrielsalesdavid/gabrielsalesdavid) — Arquivos de configuração e conteúdo deste perfil do GitHub.
 
 <!-- repos-start -->
+<details>
+  <summary>Novos repositórios aguardando categorização</summary>
+  <br />
 
+- [teste-front-end](https://github.com/gabrielsalesdavid/teste-front-end) — Linguagem detectada: não identificada pelo GitHub; Teste Front-End
+</details>
 <!-- repos-end -->
 
 Aberto a conversar sobre oportunidades, entrevistas técnicas e projetos de desenvolvimento.
